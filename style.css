@@ -215,11 +215,13 @@ footer p{
 #ouside-text{
     text-align: center;
 }
-#resume{
-color: orangered;
-  animation-name: example;
-  animation-duration: 4s;
-}
+  #change-text {
+    font-size: 30pt;
+    color: #eb3486;
+    animation-name: fontChange;
+    animation-duration: 2s;
+    animation-iteration-count: infinite;
+  }
   
 @keyframes fontChange {
     0% {

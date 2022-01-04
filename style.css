@@ -1,0 +1,76 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+}
+.flex-container{
+    display: flex;
+}
+.header-sec{
+    background-color: #FDEBEB;
+    
+}
+.half-width{
+    width: 30%;
+}
+.half-width-2nd{
+    width: 50%;
+}
+h4{
+    margin-left: 50px;
+    font-size: 20px;
+    
+}
+.half-width-2nd ul li{
+    display: inline;
+    padding: 2px;
+    background-color: orangered;
+    border-radius: 5px;
+    padding: 5px;
+}
+.half-width-2nd ul li a{
+    color: white;
+    text-decoration: none;
+}
+.hire-me{
+    margin-top: 15px;
+}
+.hire{
+   background-color: #FE4D55;
+   color: white;
+   padding: 8px;
+   text-decoration: none;
+   font-weight: 500;
+}
+.header-width{
+    width: 50%;
+}
+h1{
+    color: #16093f;
+    font-size:50px;
+    margin-left: 50px;
+}
+.middle-sec{
+    width: 50%;
+    margin: 50px;
+}
+h2{
+    color: #16093f;
+}
+.middle-sec img{
+    width: 500px;
+    height: 400px;
+}
+.middle-sec ul{
+    margin-left: -40px;
+}
+.middle-sec ul li{
+    display: inline;
+    padding: 2px;
+    background-color: #FE4D55;;
+    border-radius: 5px;
+    padding: 5px;
+}
+.middle-sec ul li a{
+    text-decoration: none;
+    color: white;
+}

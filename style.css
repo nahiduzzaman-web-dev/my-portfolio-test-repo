@@ -150,3 +150,21 @@ h2{
    color: white;
    border-radius: 5px;
 }
+#outside-hedding-rev{
+    text-align: center;
+    border-bottom: 2px solid orangered;
+    margin-left: 50%;
+    box-shadow: 10px 5px 10px gray;
+}
+.width-rev{
+    padding: 100px;
+   background-color: #f8eeee;
+   
+}
+.width-rev a{
+    text-decoration: none;
+    padding: 5px;
+   background-color:red;
+   color: white;
+   border-radius: 5px;
+}

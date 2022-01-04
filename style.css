@@ -168,3 +168,50 @@ h2{
    color: white;
    border-radius: 5px;
 }
+footer{
+    background-color: #1D1730;
+}
+.footer-sec{
+    width: 50%;
+    text-align: right;
+    color: white;
+    margin-bottom: 20px;
+}
+.footer-sec h1{
+    color: white;
+}
+footer ul li{
+    display: inline;
+}
+footer ul li a{
+    text-decoration: none;
+}
+.fotter-sec-last{
+    text-align: right;
+    width: 50%;
+    margin-right: 80px;
+    margin-top: 50px;
+    
+}
+footer a{
+    text-decoration: none;
+    border: 1px solid orange;
+    padding: 5px;
+    color: white;
+    font-weight: bold;
+    
+}
+#sec-p{
+    background-color: #1D1730;
+    border: none;
+    font-size: 10px;
+}
+footer p{
+    border: 2px solid orange;
+    color: white;
+    margin-left:300px;
+    background-color: orange;
+}
+#ouside-text{
+    text-align: center;
+}
